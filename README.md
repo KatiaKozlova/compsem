@@ -2,4 +2,4 @@
 * [ДЗ1](hw1_Kozlova.ipynb): Работа с синсетами и графами векторного семантического просранства
 * [ДЗ2](hw2_Kozlova.ipynb): Кластеризация векторного пространства
 * [ДЗ3](hw3_Kozlova.ipynb): Семантическое картирование
-* [ДЗ4](hw3_Kozlova.ipynb): Rational Speech Act (RSA)
+* [ДЗ4](hw4_Kozlova.ipynb): Rational Speech Act (RSA)
